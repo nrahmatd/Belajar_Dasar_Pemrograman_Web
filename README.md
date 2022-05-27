@@ -12,5 +12,5 @@
 <img src="https://dicodingacademy.blob.core.windows.net/academies/201912201353083e09e5a62ad3d25699611878328847ee.png">
 
 Preview
-<img src="screenshot/preview1.png">
-<img src="screenshot/preview2.png" width=256>
+<img src="screenshot/preview_1.png">
+<img src="screenshot/preview_2.png" width=256>
